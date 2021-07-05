@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemanthkumarnarra799
 - *|* **I am not a programmer or anything like that, actually I'm a finance student**. 
 - 👀 I’m interested in Telegram bots 
-- 🌱 I’m currently learning python **OUT OF MY OWN INTEREST, ALL I DO IS FORK YOUR REPOSITORY AND EDIT IT. **
+- 🌱 I’m currently learning python **OUT OF MY OWN INTEREST, ALL I DO IS FORK YOUR REPOSITORY AND EDIT IT.**
 - 💞️ I’m looking to collaborate on telegram bots 
 - 📫 How to reach me ....Don't reach me 
 
